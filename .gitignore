@@ -1,0 +1,4 @@
+outputs/*.pt
+outputs/figures/
+outputs/__pycache__/
+__pycache__/

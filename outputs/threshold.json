@@ -1,0 +1,75 @@
+{
+  "threshold": 0.7,
+  "val_macro_f1": 0.9812380247527681,
+  "early_stop": "\uc870\uae30 \uc885\ub8cc\ub294 \ud3d0\ub834 \ud655\ub960\uc774 0.5\ub97c \ub118\uc744 \ub54c\uc758 \uac80\uc99d macro-F1",
+  "candidates": [
+    {
+      "threshold": 0.1,
+      "macro_f1": 0.9713891190278929
+    },
+    {
+      "threshold": 0.15,
+      "macro_f1": 0.9753878317059843
+    },
+    {
+      "threshold": 0.2,
+      "macro_f1": 0.9728679125278261
+    },
+    {
+      "threshold": 0.25,
+      "macro_f1": 0.9768933386201428
+    },
+    {
+      "threshold": 0.3,
+      "macro_f1": 0.9758245672211885
+    },
+    {
+      "threshold": 0.35,
+      "macro_f1": 0.9797175929324817
+    },
+    {
+      "threshold": 0.4,
+      "macro_f1": 0.9784765682762802
+    },
+    {
+      "threshold": 0.45,
+      "macro_f1": 0.9797676008202324
+    },
+    {
+      "threshold": 0.5,
+      "macro_f1": 0.9798171661236199
+    },
+    {
+      "threshold": 0.55,
+      "macro_f1": 0.9798171661236199
+    },
+    {
+      "threshold": 0.6,
+      "macro_f1": 0.9811016727573438
+    },
+    {
+      "threshold": 0.65,
+      "macro_f1": 0.979914987664972
+    },
+    {
+      "threshold": 0.7,
+      "macro_f1": 0.9812380247527681
+    },
+    {
+      "threshold": 0.75,
+      "macro_f1": 0.9775658299969202
+    },
+    {
+      "threshold": 0.8,
+      "macro_f1": 0.9751319017374063
+    },
+    {
+      "threshold": 0.85,
+      "macro_f1": 0.9691669236089699
+    },
+    {
+      "threshold": 0.9,
+      "macro_f1": 0.9608465608465608
+    }
+  ]
+}

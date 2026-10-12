@@ -1,0 +1,6 @@
+{
+  "torch": "2.12.1+cpu",
+  "torchvision": "0.27.1+cpu",
+  "skimage": "0.26.0",
+  "device": "cpu"
+}

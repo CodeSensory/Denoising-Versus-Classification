@@ -1,0 +1,30 @@
+{
+  "root": "Chest X-Ray Images (Pneumonia)\\chest_xray\\chest_xray",
+  "oct_skipped": [
+    "Chest X-Ray Images (Pneumonia)\\chest_xray\\__MACOSX"
+  ],
+  "folders": {
+    "train": {
+      "NORMAL": 1341,
+      "PNEUMONIA": 3875,
+      "total": 5216,
+      "patients": 2846
+    },
+    "test": {
+      "NORMAL": 234,
+      "PNEUMONIA": 390,
+      "total": 624,
+      "patients": 427
+    },
+    "val": {
+      "NORMAL": 8,
+      "PNEUMONIA": 8,
+      "total": 16,
+      "patients": 15
+    }
+  },
+  "train_test_patient_overlap": 170,
+  "unmatched_files": [],
+  "dual_label_patients": [],
+  "gate_passed": true
+}
